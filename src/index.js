@@ -14,7 +14,7 @@ window.loadTable = (json) => {
     columns,
     data,
   });
-};;
+};
 
 // add a row click event
 $("#dtable").on("click", "tr", function () {
